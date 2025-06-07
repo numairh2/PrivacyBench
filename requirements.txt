@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+opacus
+faker
+spacy
+matplotlib
+pandas
