@@ -1,4 +1,4 @@
-# PIILeakDemo
+# PrivacyBench
 
 An interactive demonstration of Personally Identifiable Information (PII) leakage attacks on fine-tuned GPT-2 models. This project reproduces and visualizes the threat models and defense strategies described in the paper [“Analyzing Leakage of Personally Identifiable Information in Language Models”](https://gangw.cs.illinois.edu/class/cs562/papers/llm-leak-sp23.pdf).
 
